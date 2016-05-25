@@ -4,8 +4,9 @@
 
 #### Getting Started
 
-`npm init`
-
-`npm start`
+    > git clone https://github.com/jtabach/React-Basic-Template.git
+    > cd React-Basic-Template
+    > npm init
+    > npm start
 
 And you're good to go!
